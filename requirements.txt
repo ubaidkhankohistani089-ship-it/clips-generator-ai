@@ -1,0 +1,9 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+celery[redis]==5.3.6
+redis==5.0.4
+yt-dlp==2024.5.27
+openai-whisper==20231117
+pydantic==2.7.1
+python-multipart==0.0.9
+aiofiles==23.2.1
